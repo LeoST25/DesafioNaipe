@@ -1,0 +1,14 @@
+E:\DesafioNaipe\bin\Debug\net8.0\DesafioNaipe.exe
+E:\DesafioNaipe\bin\Debug\net8.0\DesafioNaipe.deps.json
+E:\DesafioNaipe\bin\Debug\net8.0\DesafioNaipe.runtimeconfig.json
+E:\DesafioNaipe\bin\Debug\net8.0\DesafioNaipe.dll
+E:\DesafioNaipe\bin\Debug\net8.0\DesafioNaipe.pdb
+E:\DesafioNaipe\obj\Debug\net8.0\DesafioNaipe.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesafioNaipe\obj\Debug\net8.0\DesafioNaipe.AssemblyInfoInputs.cache
+E:\DesafioNaipe\obj\Debug\net8.0\DesafioNaipe.AssemblyInfo.cs
+E:\DesafioNaipe\obj\Debug\net8.0\DesafioNaipe.csproj.CoreCompileInputs.cache
+E:\DesafioNaipe\obj\Debug\net8.0\DesafioNaipe.dll
+E:\DesafioNaipe\obj\Debug\net8.0\refint\DesafioNaipe.dll
+E:\DesafioNaipe\obj\Debug\net8.0\DesafioNaipe.pdb
+E:\DesafioNaipe\obj\Debug\net8.0\DesafioNaipe.genruntimeconfig.cache
+E:\DesafioNaipe\obj\Debug\net8.0\ref\DesafioNaipe.dll
